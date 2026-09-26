@@ -10,7 +10,7 @@ tools that make public data and everyday Italian bureaucracy a little easier to 
 | Project | What it does | Try it |
 |---|---|---|
 | [**coperni**](https://github.com/azuki-beans/coperni) | Air quality forecasts from Copernicus CAMS on a map, for any place in Europe | [coperni.azukibeans.dev](https://coperni.azukibeans.dev) |
-| [**p7m-apri**](https://github.com/azuki-beans/p7m-apri) | Open and verify digitally signed `.p7m` files, entirely in the browser | [Docker image](https://github.com/azuki-beans/p7m-apri/pkgs/container/p7m-apri) |
+| [**p7m-apri**](https://github.com/azuki-beans/p7m-apri) | Open and verify digitally signed `.p7m` files, entirely in the browser | [p7m.azukibeans.dev](https://p7m.azukibeans.dev) |
 | [**fatturapa**](https://github.com/azuki-beans/fatturapa) | Zero-dependency parser for Italian electronic invoices (FatturaPA) | [`pip install fatturapa`](https://pypi.org/project/fatturapa/) |
 
 ## How we build
