@@ -5,12 +5,15 @@
 **Azuki Beans** is a small group of friends who build open source software in Python: practical
 tools that make public data and everyday Italian bureaucracy a little easier to deal with.
 
+**All our projects, in English and Italian: [azukibeans.dev](https://azukibeans.dev/)**
+
 ## Projects
 
 | Project | What it does | Try it |
 |---|---|---|
 | [**coperni**](https://github.com/azuki-beans/coperni) | Air quality forecasts from Copernicus CAMS on a map, for any place in Europe | [coperni.azukibeans.dev](https://coperni.azukibeans.dev) |
 | [**p7m-apri**](https://github.com/azuki-beans/p7m-apri) | Open and verify digitally signed `.p7m` files, entirely in the browser | [p7m.azukibeans.dev](https://p7m.azukibeans.dev) |
+| [**attese**](https://github.com/azuki-beans/attese) | Waiting times for medical visits and tests in South Tyrol, from the provincial open data | [attese.azukibeans.dev](https://attese.azukibeans.dev) |
 | [**fatturapa**](https://github.com/azuki-beans/fatturapa) | Zero-dependency parser for Italian electronic invoices (FatturaPA) | [`pip install fatturapa`](https://pypi.org/project/fatturapa/) |
 
 ## How we build
